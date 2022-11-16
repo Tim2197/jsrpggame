@@ -1,4 +1,4 @@
-class LivingEntity {
+export class LivingEntity {
     health = 10;
     strength = 1;
     agility = 4;

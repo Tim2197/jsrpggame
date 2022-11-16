@@ -1,3 +1,4 @@
+import { LivingEntity } from "./entityClass.js";
 
 class Monster extends LivingEntity{
 
